@@ -8,11 +8,9 @@ This dashboard compares 5 Ventura County area universities across financial outc
 
 <img width="789" height="754" alt="Screenshot 2026-09-08 at 9 03 12 AM" src="https://github.com/user-attachments/assets/d975efa7-8051-4f0f-8263-d96a250d1c74" />
 
-<img width="1674" height="951" alt="Screenshot 2026-08-15 at 5 06 41 PM" src="https://github.com/user-attachments/assets/5a27ced7-2f75-4b8b-ba0a-2a98f5ec6cc3" />
+<img width="789" height="754" alt="Screenshot 2026-09-08 at 10 17 15 AM" src="https://github.com/user-attachments/assets/022cd18f-0acc-4f3d-86b3-f776694ef21e" />
 
-<img width="1674" height="951" alt="Screenshot 2026-08-15 at 5 07 12 PM" src="https://github.com/user-attachments/assets/c16105a6-d96b-437e-a98a-faa55d5f3060" />
-
-
+<img width="789" height="808" alt="Screenshot 2026-09-08 at 10 17 33 AM" src="https://github.com/user-attachments/assets/9ac275bc-6d0f-4910-af5d-9d39ed012e59" />
 
 
 
