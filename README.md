@@ -15,10 +15,10 @@ This dashboard compares 5 Ventura County area universities across financial outc
 
 
 ## Why I Built This
-I made this project to bring the most important factors I considered when choosing a university into one place, including financial, academic, location and student outcome data. I wanted to make it easier to compare universities without have to search through multiple websites and sources to find the information I was looking for.
+I made this project to bring the most important factors I considered when choosing a university into one place, including financial, academic, location and student outcome data. I wanted to make it easier to compare universities without having to search through multiple websites and sources to find the information I was looking for.
 
 ## How Its Made
-I scraped data 5 schools in or near Ventura County, Cal Lutheran, CSUN, CSUCI, Pepperdine and UCSB. I collected faculty ratings for almost every teacher review at each school (500+ each school) and scraped the U.S Department of Education's Collegscorecard (CSC) to obtain detailed stats about each school like costs, graduation rates, debt and so much more. The final dataset included The scraped RMP data set, the CSC data set and additional engineered variables. Visually, I used many sources for inspiration, like data-to-viz.com to help to portray what visuals I thought help portray my point and the streamlit gallery for the overall aesthetic of the app. Learning how to apply CSS custom properties really opened my eyes on what I could create on Streamlit.
+I scraped data 5 schools in or near Ventura County, Cal Lutheran, CSUN, CSUCI, Pepperdine and UCSB. I collected faculty ratings for almost every teacher review at each school (500+ each school) and pulled form the U.S Department of Education's Collegscorecard (CSC) API to obtain detailed stats about each school like costs, graduation rates, debt and so much more. The final dataset included The scraped RMP data set, the CSC data set and additional engineered variables. Visually, I used several sources for inspiration, like data-to-viz.com help me decide how to portray each comparison and the Streamlit gallery for the overall aesthetic of the app. Learning how to apply CSS custom properties really opened my eyes on what I could create on Streamlit.
 
 
 
