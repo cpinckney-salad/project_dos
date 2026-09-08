@@ -3,11 +3,14 @@
 This dashboard compares 5 Ventura County area universities across financial outcomes, academic metrics and professor quality which combines federal education data with sources faculty ratings to give students an all-in-one view of their options.
 
 
-<img width="1674" height="951" alt="Screenshot 2026-08-15 at 5 06 04 PM" src="https://github.com/user-attachments/assets/f9f99a7a-12a9-4eee-a0c8-972aeef25afd" />
+<img width="789" height="842" alt="Screenshot 2026-09-08 at 8 58 05 AM" src="https://github.com/user-attachments/assets/68ffa41e-b65a-4169-b2d4-49b11f352006" />
 
 <img width="1674" height="951" alt="Screenshot 2026-08-15 at 5 06 41 PM" src="https://github.com/user-attachments/assets/5a27ced7-2f75-4b8b-ba0a-2a98f5ec6cc3" />
 
 <img width="1674" height="951" alt="Screenshot 2026-08-15 at 5 07 12 PM" src="https://github.com/user-attachments/assets/c16105a6-d96b-437e-a98a-faa55d5f3060" />
+
+
+
 
 
 ## Why I Built This
